@@ -57,8 +57,6 @@ Here are some ideas to get you started:
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=007atulpandey&show_icons=true&locale=en" alt="007atulpandey" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=007atulpandey&" alt="007atulpandey" /></p>
-
-<h1 align = 'Center'>Watch a 🐍 eating my contribution graph</h1>
 <p align="center">
   <img src="https://github.com/007atulpandey/007atulpandey/blob/output/github-contribution-grid-snake.svg" alt="snake"></center>
 </p>
